@@ -1,1 +1,1 @@
-
+This project is about analysing EEG signals from brain. The [CHB-MIT](https://physionet.org/content/chbmit/1.0.0/) dataset used in this project in several analyzing methodes such as moving average, delete DC signals, apply FIR and IIR filter and classify it to alpha,beta,delta and theta. At last we presented attack and normal spectrum to compare their ferequency for a help for an attack detection.
