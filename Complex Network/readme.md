@@ -1,0 +1,1 @@
+build a network based on wats-strogatz. illustrate some of the network components such as triangles, giant component and etc. find influential nodes with 3 metrics : betweenness, closeness, degree centrality. apply a SI model for examine the changes in this network by iterations and compare it to scale-free networks to analyse the resistance of network.
